@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7Lt6gu6fBFg=",
+  "success": true,
+  "projectFilePath": "/Users/landreysmith/workspace/github/Landers99/SafeShip/SafeShip.API/SafeShip.API.csproj",
+  "expectedPackageFiles": [
+    "/Users/landreysmith/.nuget/packages/microsoft.aspnetcore.openapi/9.0.9/microsoft.aspnetcore.openapi.9.0.9.nupkg.sha512",
+    "/Users/landreysmith/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
