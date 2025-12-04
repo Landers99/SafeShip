@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SafeShip.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7445b368b8a7e010ee72a5d8fca0ac6eb333e564")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff1e7b23b71379570490d381afec89eb3584188c")]
 [assembly: System.Reflection.AssemblyProductAttribute("SafeShip.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SafeShip.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
