@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SafeShip.Client")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff1e7b23b71379570490d381afec89eb3584188c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+543c66f5547c5779bc56a9df3702c4b8e5b0e3f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("SafeShip.Client")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SafeShip.Client")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
