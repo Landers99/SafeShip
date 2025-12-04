@@ -1,15 +1,15 @@
-# SafeShip - Feature Rollout & Telemetry Service for Desktop Clients
+# SafeShip
 
-## What SafeShip Does
+SafeShip is a small feature rollout and telemetry service for desktop clients.  
+A .NET 8 Web API provides client registration, configuration (feature flags), and telemetry ingestion, with a simple console client to simulate a desktop app.
 
-- SafeShip.API provides endpoints to register a client application, get feature flags and rollout settings, and send telemetry events.
-- SafeShip.Client an startup registers with the API, fetches config with feature flags, logs which features are enabled, and sends telemetry events.
-- SafeShip.Store stores in-memory clients, configs, and telemetry events.
-- SafeShip.Dashboard (TBD)
-
-## Stack
+## Tech Stack
 
 - .NET 8
 - C#
+- ASP.NET Core Web API (`SafeShip.API`)
+- Console client (`SafeShip.Client`)
 
-## Current Status: MVP in progress
+## Status
+
+- **Block 1**: Solution skeleton created, core domain models and in-memory repositories added, controller stubs created, console client scaffolded.
