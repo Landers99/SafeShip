@@ -1,12 +1,14 @@
-﻿using System;
+﻿namespace SafeShip.Client;
 
-namespace SafeShip
+public class Program
 {
-    internal class Program
+    public static async Task Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
+        Console.WriteLine("SafeShip.Client starting (skeleton)");
+
+        // TODO
+        await Task.CompletedTask;
+
+        Console.WriteLine("SafeShip.Client exiting.");
     }
 }
